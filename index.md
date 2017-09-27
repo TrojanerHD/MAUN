@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Willkommen bei der MAUN!
 
 You can use the [editor on GitHub](https://github.com/TheMAUN/TheMAUN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
